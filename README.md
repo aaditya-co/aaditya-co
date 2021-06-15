@@ -15,7 +15,7 @@ I'm a 1st-year Software Engineering/CS Student [@College of Engineering,Anna Uni
 
 - I'm currently studying in ... [MCA @CEG Guindy,Anna University](http://www.fci.bsu.edu.eg/) Chennai-600025
 - 🌱 I’m currently learning Software Engineering , Software Architecture and Most Famous Design Patterns
-- 👨‍💻 All of Github Respositories are available  [here](https://github.com/aboelkassem?tab=repositories)
+- 👨‍💻 All of Github Respositories are available  [here](https://github.com/adityaraj3644?tab=repositories)
 - 👯 Looking for an internship or opportunity.
 
 
