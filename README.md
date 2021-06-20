@@ -13,7 +13,7 @@ I'm a 1st-year Software Engineering/CS Student [@College of Engineering,Anna Uni
 ![](https://komarev.com/ghpvc/?username=adityaraj3644&color=brightgreen&style=flat) -->
 
 
-- I'm currently studying in ... [MCA @CEG Guindy,Anna University](http://www.fci.bsu.edu.eg/) Chennai-600025
+- I'm currently studying in ... [MCA @CEG Guindy,Anna University](https://ceg.annauniv.edu/) Chennai-600025
 - 🌱 I’m currently learning Software Engineering , Software Architecture and Most Famous Design Patterns
 - 👨‍💻 All of Github Respositories are available  [here](https://github.com/adityaraj3644?tab=repositories)
 - 👯 Looking for an internship or opportunity.
@@ -45,9 +45,9 @@ I'm a 1st-year Software Engineering/CS Student [@College of Engineering,Anna Uni
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 
-
+<!-- 
 
 
 <br>
-<a href="bit.ly/aaditya-co/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=adityaraj3644&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj3644&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<a href="bit.ly/aaditya-co/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=adityaraj3644&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj3644&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a> -->
 
