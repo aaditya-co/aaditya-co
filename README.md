@@ -8,9 +8,8 @@ I'm a 1st-year Software Engineering/CS Student [@College of Engineering,Anna Uni
 [![dev.to badge](https://img.shields.io/badge/-adityaraj3644-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityaraj3644)
 [![glitch badge](https://img.shields.io/badge/-aaditya.fb-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/aaditya.fb)
 [![twitter badge](https://img.shields.io/badge/-@aaditya.co-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aaditya.co)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityaraj3644@gmail.com)](mailto:contact@aboelkassem.me)
-<!-- ![githubbadge](https://img.shields.io/github/followers/adityaraj3644?style=social)
-![](https://komarev.com/ghpvc/?username=adityaraj3644&color=brightgreen&style=flat) -->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityaraj3644@gmail.com)](mailto:adityaraj3644@gmail.com)
+
 
 
 - I'm currently studying in ... [MCA @CEG Guindy,Anna University](https://ceg.annauniv.edu/) Chennai-600025
