@@ -2,7 +2,7 @@
 
 ### Hi, I'm <a href="#">Aditya Raj</a> 👋🏼👨🏻‍💻
 
-I'm a 1st-year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
+I'm a Final Year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@aadityadotco-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aaditya.co)
 [![dev.to badge](https://img.shields.io/badge/-adityaraj3644-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityaraj3644)
