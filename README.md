@@ -6,8 +6,6 @@ I'm a Final Year Software Engineering/CS Student [@College of Engineering,Anna U
 
 [![twitter badge](https://img.shields.io/badge/-@aadityadotco-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aaditya.co)
 [![dev.to badge](https://img.shields.io/badge/-adityaraj3644-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityaraj3644)
-[![glitch badge](https://img.shields.io/badge/-aaditya.fb-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/aaditya.fb)
-[![twitter badge](https://img.shields.io/badge/-@aaditya.co-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aaditya.co)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityaraj3644@gmail.com)](mailto:adityaraj3644@gmail.com)
 
 
