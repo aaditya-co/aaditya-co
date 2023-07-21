@@ -1,4 +1,4 @@
-//<img src="https://i.giphy.com/media/sTSPaUVZ4xWZhlFLCm/giphy.webp" width="100%">
+
 
 ### Hi, I'm <a href="#">Aditya Raj</a> 👋🏼👨🏻‍💻
 
